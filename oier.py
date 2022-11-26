@@ -143,7 +143,7 @@ class OIer:
                 n = record.contest.n_contestants()
                 scores.setdefault(record.contest.type, R(0))
                 scores[record.contest.type] = max(
-                    scores[record.contest.type], B - (record.rank - 1) * R(B - 50, n - 1))
+                    scores[record.contest.type], B - (record.rank - 1) * R(B - 50, n))
             score = sum(scores.values())
             for condition, level in __clscr2lvl__:
                 if score >= condition:
