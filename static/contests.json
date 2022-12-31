@@ -798,7 +798,7 @@
 	},
 	{
 		"fall_semester": true,
-		"full_score": 5,
+		"full_score": 400,
 		"name": "NOIP2022同步赛",
 		"type": "NOIP",
 		"year": 2022
