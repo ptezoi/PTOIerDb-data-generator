@@ -272,5 +272,33 @@
 		"name": "莆田市第四届中小学校园创客节C++编程高中组",
 		"type": "莆田市创客节",
 		"year": 2023
+	},
+	{
+		"fall_semester": false,
+		"full_score": 300,
+		"name": "APIO2023线上",
+		"type": "APIO",
+		"year": 2023
+	},
+	{
+		"fall_semester": true,
+		"full_score": 400,
+		"name": "CSP2023提高",
+		"type": "CSP提高",
+		"year": 2023
+	},
+	{
+		"fall_semester": true,
+		"full_score": 400,
+		"name": "CSP2023入门",
+		"type": "CSP入门",
+		"year": 2023
+	},
+	{
+		"fall_semester": true,
+		"full_score": 400,
+		"name": "NOIP2023",
+		"type": "NOIP",
+		"year": 2023
 	}
 ]
