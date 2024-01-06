@@ -149,13 +149,6 @@
 	{
 		"fall_semester": true,
 		"full_score": 400,
-		"name": "CSP2021入门",
-		"type": "CSP入门",
-		"year": 2021
-	},
-	{
-		"fall_semester": true,
-		"full_score": 400,
 		"name": "NOIP2021",
 		"type": "NOIP",
 		"year": 2021
@@ -200,28 +193,6 @@
 		"full_score": 63,
 		"name": "莆田市2022年中小学生C++编程专项选拔比赛小学组",
 		"type": "莆田市选拔",
-		"year": 2022
-	},
-	{
-		"capacity": 357,
-		"fall_semester": false,
-		"full_score": 600,
-		"name": "IOI2022",
-		"type": "IOI",
-		"year": 2022
-	},
-	{
-		"fall_semester": false,
-		"full_score": 705,
-		"name": "NOI2022",
-		"type": "NOI",
-		"year": 2022
-	},
-	{
-		"fall_semester": false,
-		"full_score": 705,
-		"name": "NOI2022D类",
-		"type": "NOID类",
 		"year": 2022
 	},
 	{
@@ -275,6 +246,20 @@
 	},
 	{
 		"fall_semester": false,
+		"full_score": 18,
+		"name": "莆田市2023年中小学生C++编程专项选拔比赛初中组",
+		"type": "莆田市选拔",
+		"year": 2023
+	},
+	{
+		"fall_semester": false,
+		"full_score": 18,
+		"name": "莆田市2023年中小学生C++编程专项选拔比赛小学组",
+		"type": "莆田市选拔",
+		"year": 2023
+	},
+	{
+		"fall_semester": false,
 		"full_score": 300,
 		"name": "APIO2023线上",
 		"type": "APIO",
@@ -298,6 +283,20 @@
 		"fall_semester": true,
 		"full_score": 400,
 		"name": "NOIP2023",
+		"type": "NOIP",
+		"year": 2023
+	},
+	{
+		"fall_semester": true,
+		"full_score": 400,
+		"name": "NGOI2023",
+		"type": "NGOI",
+		"year": 2023
+	},
+	{
+		"fall_semester": true,
+		"full_score": 400,
+		"name": "NOIP2023同步赛",
 		"type": "NOIP",
 		"year": 2023
 	}
