@@ -299,5 +299,26 @@
 		"name": "NOIP2023同步赛",
 		"type": "NOIP",
 		"year": 2023
+	},
+	{
+		"fall_semester": true,
+		"full_score": 400,
+		"name": "莆田市第五届中小学校园创客节C++编程小学组",
+		"type": "莆田市创客节",
+		"year": 2023
+	},
+	{
+		"fall_semester": true,
+		"full_score": 400,
+		"name": "莆田市第五届中小学校园创客节C++编程初中组",
+		"type": "莆田市创客节",
+		"year": 2023
+	},
+	{
+		"fall_semester": true,
+		"full_score": 400,
+		"name": "莆田市第五届中小学校园创客节C++编程高中组",
+		"type": "莆田市创客节",
+		"year": 2023
 	}
 ]
