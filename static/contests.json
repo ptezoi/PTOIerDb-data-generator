@@ -320,5 +320,19 @@
 		"name": "莆田市第五届中小学校园创客节C++编程高中组",
 		"type": "莆田市创客节",
 		"year": 2023
+	},
+	{
+		"fall_semester": false,
+		"full_score": 18,
+		"name": "莆田市2024年中小学生C++编程专项选拔比赛小学组",
+		"type": "莆田市选拔",
+		"year": 2024
+	},
+	{
+		"fall_semester": false,
+		"full_score": 18,
+		"name": "莆田市2024年中小学生C++编程专项选拔比赛初中组",
+		"type": "莆田市选拔",
+		"year": 2024
 	}
 ]
